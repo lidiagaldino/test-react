@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lidiagaldino/test-react/static/css/main.c2dd105d.css",
+    "main.js": "/lidiagaldino/test-react/static/js/main.fd281fe5.js",
+    "index.html": "/lidiagaldino/test-react/index.html",
+    "main.c2dd105d.css.map": "/lidiagaldino/test-react/static/css/main.c2dd105d.css.map",
+    "main.fd281fe5.js.map": "/lidiagaldino/test-react/static/js/main.fd281fe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2dd105d.css",
+    "static/js/main.fd281fe5.js"
+  ]
+}
